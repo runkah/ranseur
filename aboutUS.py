@@ -24,4 +24,14 @@ intro("RUNKAH")
 
 AoO=[]
 
-bio = "\n\t\tRunkah\n"
+bio = "\n\n\t\tRunkah\n\t\tA Github Group\n...."
+print(bio)
+
+
+
+
+
+
+
+
+
