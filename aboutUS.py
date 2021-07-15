@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
 # aboutUS
 #print()runkahranseur
@@ -26,12 +26,3 @@ AoO=[]
 
 bio = "\n\n\t\tRunkah\n\t\tA Github Group\n...."
 print(bio)
-
-
-
-
-
-
-
-
-
